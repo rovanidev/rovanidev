@@ -1,4 +1,4 @@
-## Opa! Eu sou o Bruno Rovani
+## Opa! Eu sou o Bruno Rovani!
 
 - 🔭 Estudando JavaScript ...
 - 📫 Contate-me no email: brunosouzarovani@gmail.com
