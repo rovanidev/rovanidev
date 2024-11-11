@@ -1,6 +1,6 @@
 ## Hi! I'm Bruno Rovani.
 
-- 🔭 Estudando JavaScript ...
+- 🔭 Estudando...
 - 📫 Contate-me no email: brunosouzarovani@gmail.com
 
 <div style="display: inline_block"><br>
