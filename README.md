@@ -1,7 +1,7 @@
 ## Hi! I'm Bruno Rovani.
 
 - 🔭 Estudando...
-- 📫 Contate-me no email: brunosouzarovani@gmail.com
+- 📫 Contate-me no email: brunosouzarovanidev@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
