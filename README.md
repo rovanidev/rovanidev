@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Atualmente me aprodundando JavaScript.<br>🎯 Objetivos: Crescer como dev e ensinar da forma que posso durante minha jornada.<br>Futuros passos: Java.</p>
+<p align="left">📚 Atualmente me aprodundando JavaScript.<br>🎯 Objetivos: Crescer como dev e ensinar da forma que posso durante minha jornada.<br>🌱Futuros passos: Java.</p>
 
 ###
 
