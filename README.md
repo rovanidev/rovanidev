@@ -32,20 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/brunorovani/brunorovani/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/rovani">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rovani&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
   ##
 
 <div> 
