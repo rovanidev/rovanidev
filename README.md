@@ -1,18 +1,6 @@
 
 
-<h1 align="left">Bruno Rovani</h1>
-
-###
-
-
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">📚 Atualmente me aprodundando JavaScript.<br>🎯 Objetivos: Crescer como dev e ensinar da forma que posso durante minha jornada.<br>☕Futuro dev backend Java</p>
+<h1 align="left">👨🏻‍💻Bruno Rovani</h1>
 
 ###
 
