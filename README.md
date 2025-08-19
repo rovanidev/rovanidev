@@ -1,30 +1,87 @@
+# 👩🏻‍💻 Bruno Rovani
+
+**`Aspirante a Desenvolvedor Fullstack`**
+
+Me chamo Bruno Souza Rovani, tenho 19 anos e sou natural do interior de SP. Atualmente, estou cursando Ciência da Computação na USJT. Sou apaixonado por tecnologia e compartilho meu conhecimento na minha comunidade do Discord "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
+)", onde ofereço uma estrutura completa com canais para projetos, materiais, chat off-topic, linkedin e até mesmo canais para contratação. 
+
+<p align="left">
+    <a href="https://discord.gg/SEU_LINK_AQUI" target="_blank">
+  <img
+    alt="CODE BRASIL™"
+    title="Entrar na comunidade CODE BRASIL™"
+    src="https://img.shields.io/badge/CODE%20BRASIL%E2%84%A2-00C978?style=for-the-badge&logo=discord&logoColor=FFF"
+  />
+</a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 
-<h1 align="left">👨🏻‍💻Bruno Rovani</h1>
+<br/>
+<br/>
 
-###
+### 📊 Estatísticas
 
-<h2 align="left">Minhas Stacks</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="40" />
-          
-
-  <img width="12" />
-</div>
-
-
-  ##
-
-<div> 
-  <a href="https://www.instagram.com/brunorovani_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/gGUZXuuew5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/brunorovani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=brunorovani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
