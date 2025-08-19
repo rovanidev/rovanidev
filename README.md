@@ -6,7 +6,7 @@ Me chamo Bruno Souza Rovani, tenho 19 anos e sou natural do interior de SP. Atua
 )", onde ofereço uma estrutura completa com canais para projetos, materiais, chat off-topic, linkedin e até mesmo canais para contratação. 
 
 <p align="left">
-    <a href="https://discord.gg/SEU_LINK_AQUI" target="_blank">
+    <a href="https://discord.gg/aEdvPPYP9Z" target="_blank">
   <img
     alt="CODE BRASIL™"
     title="Entrar na comunidade CODE BRASIL™"
