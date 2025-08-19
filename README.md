@@ -89,7 +89,7 @@ Me chamo Bruno Souza Rovani, tenho 19 anos e sou natural do interior de SP. Atua
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="200" 
     style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorovani&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
   />
