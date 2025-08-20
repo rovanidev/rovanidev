@@ -2,7 +2,7 @@
 
 **`Aspirante a Desenvolvedor Fullstack`**
 
-Me chamo Bruno Souza Rovani, tenho 19 anos e sou natural do interior de SP. Atualmente, estou cursando Ciência da Computação na USJT. Sou apaixonado por tecnologia e compartilho meu conhecimento na minha comunidade do Discord "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
+Me chamo Bruno Souza Rovani, tenho 19 anos e sou de São Paulo/SP. Atualmente, estou cursando Ciência da Computação na USJT. Sou apaixonado por tecnologia e compartilho meu conhecimento na minha comunidade do Discord "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
 )", onde ofereço uma estrutura completa com canais para projetos, materiais, chat off-topic, linkedin e até mesmo canais para contratação. 
 
 <p align="left">
