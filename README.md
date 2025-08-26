@@ -83,7 +83,7 @@ Me chamo Bruno Souza Rovani, tenho 19 anos e sou de São Paulo/SP. Atualmente, e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brunorovani&show_icons=true&theme=tokyonight&custom_title=Estatísticas&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rovanidev&show_icons=true&theme=tokyonight&custom_title=Estatísticas&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -91,8 +91,8 @@ Me chamo Bruno Souza Rovani, tenho 19 anos e sou de São Paulo/SP. Atualmente, e
     alt="GitHub Stats" 
     height="195" 
     style="padding-right: 10px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorovani&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovanidev&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
   />
 
-<img src="https://raw.githubusercontent.com/brunorovani/brunorovani/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brunorovani/rovanidev/output/snake.svg" alt="Snake animation" />
 
