@@ -1,9 +1,10 @@
 # 👩🏻‍💻 Bruno Rovani
 
-**`Aspirante a Desenvolvedor Back-End`**
+Back-end developer passionate about programming challenges.
+Currently focused on building robust web applications and APIs, exploring automation, system integration, and best development practices. A software developer continuously learning and evolving.
 
-Me chamo Bruno Souza Rovani, tenho 19 anos e sou de São Paulo/SP. Atualmente, estou cursando Ciência da Computação na USJT. Sou apaixonado por tecnologia e compartilho meu conhecimento na minha comunidade do Discord "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
-)", onde ofereço uma estrutura completa com canais para projetos, materiais, chat off-topic, linkedin e até mesmo canais para contratação. 
+I share my knowledge in my Discord community "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
+)", where I provide a complete structure with channels for projects, resources, off-topic chat, LinkedIn networking, and even hiring opportunities.
 
 <p align="left">
     <a href="https://discord.gg/aEdvPPYP9Z" target="_blank">
@@ -17,7 +18,7 @@ Me chamo Bruno Souza Rovani, tenho 19 anos e sou de São Paulo/SP. Atualmente, e
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -52,37 +53,9 @@ Me chamo Bruno Souza Rovani, tenho 19 anos e sou de São Paulo/SP. Atualmente, e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rovanidev&show_icons=true&theme=tokyonight&custom_title=Estatísticas&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="195" 
-    style="padding-right: 10px;" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovanidev&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
-  />
 
 <img src="https://raw.githubusercontent.com/rovanidev/rovanidev/output/snake.svg" alt="Snake animation" />
 
