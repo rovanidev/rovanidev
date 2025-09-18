@@ -1,10 +1,12 @@
-# 👩🏻‍💻 Bruno Rovani
+## 👩🏻‍💻 Bruno Souza Rovani
 
 Back-end developer passionate about programming challenges.
 Currently focused on building robust web applications and APIs, exploring automation, system integration, and best development practices. A software developer continuously learning and evolving.
 
-I share my knowledge in my Discord community "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
-)", where I provide a complete structure with channels for projects, resources, off-topic chat, LinkedIn networking, and even hiring opportunities.
+
+ Here, I help +270 developers grow in my Discord community "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
+)"
+ , with channels for projects, resources, networking, and job opportunities.
 
 <p align="left">
     <a href="https://discord.gg/aEdvPPYP9Z" target="_blank">
@@ -18,51 +20,18 @@ I share my knowledge in my Discord community "[CODE BRASIL™](https://discord.g
 
 ---
 
-### 🤖 Languages ​​and Technologies
+### Stacks
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css)](https://skillicons.dev)
 
 
-<br/>
-<br/>
+
+### Languages
+🇧🇷 Native Portuguese </br>
+🇺🇸 Intermediary English
+
+
+
+
 
 
