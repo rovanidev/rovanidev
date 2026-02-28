@@ -4,7 +4,7 @@ Back-end developer passionate about programming challenges.
 Currently focused on building robust web applications and APIs, exploring automation, system integration, and best development practices. A software developer continuously learning and evolving.
 
 
- Here, I help +270 developers grow in my Discord community "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
+ Here, I help +305 developers grow in my Discord community "[CODE BRASIL™](https://discord.gg/aEdvPPYP9Z
 )"
  , with channels for projects, resources, networking, and job opportunities.
 
